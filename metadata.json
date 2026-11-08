@@ -1,0 +1,8 @@
+{
+  "name": "Foodpanda",
+  "description": "Order food from your favorite restaurants, groceries from shops, apply vouchers, and track deliveries in real time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

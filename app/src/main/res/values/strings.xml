@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Foodpanda</string>
+    <string name="search_placeholder">Search for shops &amp; restaurants</string>
+    <string name="food_delivery_title">Food delivery</string>
+    <string name="food_delivery_subtitle">Order food you love</string>
+    <string name="shops_title">Shops</string>
+    <string name="shops_subtitle">Groceries and more</string>
+    <string name="pickup_title">Pick-up</string>
+    <string name="pickup_subtitle">Up to 50% off</string>
+    <string name="pandasend_title">pandasend</string>
+    <string name="pandasend_subtitle">Express Delivery</string>
+    <string name="popular_restaurants">Popular Restaurants</string>
+    <string name="local_hero">Local Hero</string>
+    <string name="all_restaurants">All restaurants</string>
+    <string name="view_your_cart">View your cart</string>
+    <string name="cart_title">Cart</string>
+    <string name="checkout_title">Checkout</string>
+    <string name="place_order">Place order</string>
+    <string name="vouchers_and_offers">Vouchers &amp; Offers</string>
+    <string name="orders_and_reordering">Orders &amp; reordering</string>
+    <string name="addresses_title">Addresses</string>
+</resources>
